@@ -1,0 +1,5 @@
+com/todo/Todo/Application/repository/TaskRepository.class
+com/todo/Todo/Application/service/TaskService.class
+com/todo/Todo/Application/entity/Task.class
+com/todo/Todo/Application/controller/TaskController.class
+com/todo/Todo/Application/TodoApplication.class
